@@ -110,7 +110,7 @@ def Holiday_analysis(df):
     print(f'Mean Weekday: {mean_non_holiday}, Std Weekday: {std_non_holiday}')
 
     return fig, ax
-data = pd.read_csv("D:\Kuliahan\Bangkit\ProjectAkhir\Bike-sharing-dataset\hour.csv")
+data = pd.read_csv("/workspaces/Dashboard-dicoding/Bike-sharing-dataset/hour.csv")
 st.sidebar.title("Bike Sharing Analysis Dashboard")
 
 
