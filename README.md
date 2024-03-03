@@ -1,4 +1,4 @@
-Setup Environment
+**Setup Environment**
 
 pip install numpy
 
@@ -16,6 +16,6 @@ pip install -U scikit-learn
 
 pip install plotly
 
-Run Steamlit app
+**Run Steamlit app**
 
 streamlit run d:/Kuliahan/Bangkit/ProjectAkhir/Dashboard/ProjectAkhir.py
